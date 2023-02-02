@@ -4,6 +4,8 @@ Tarea 1 2023
 ## Nota:
 Mi repositorio es: https://github.com/JorgeCadrecha/Tarea1_Tecnicas_Programaci-n.git
 
+## Enunciado
+
 __Te dimos una pequeña introducción a los algoritmos y unos cuantos ejemplos. Ahora, antes de seguir adelante, queremos saber en qué algoritmos puedes pensar.
 Deja un comentario a continuación que responda una o más de estas preguntas, y revisa lo que otros estudiantes escribieron:__
 
