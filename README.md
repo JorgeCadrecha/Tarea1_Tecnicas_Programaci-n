@@ -2,7 +2,7 @@
 Tarea 1 2023
 
 ## Nota:
-Mi repositorio es: https://github.com/JorgeCadrecha/Tarea1_Tecnicas_Programaci-n.git
+Mi repositorio es: https://github.com/JorgeCadrecha/Tarea1_Tecnicas_Programacion.git
 
 ## Enunciado
 
