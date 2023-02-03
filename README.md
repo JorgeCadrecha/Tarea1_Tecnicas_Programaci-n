@@ -19,4 +19,4 @@ Deja un comentario a continuación que responda una o más de estas preguntas, y
 
 * ¿Haz hecho alguna vez un algoritmo para un programa? ¿Qué hacía? ¿Era correcto y eficiente?
   
-  3. Seguramente ya he realizado algun algoritmo para un programa pero inconscientemente, sin conocer que son algoritmos.
+  3. Seguramente ya he realizado algún algoritmo para un programa pero inconscientemente, sin conocer que son algoritmos.
